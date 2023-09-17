@@ -1,8 +1,4 @@
 ### Moshi moshi 👋
-<h3>Sobre mim</h3>
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Ciência da computação** 
 
 <h3>Minhas Skills</h3>
 
@@ -10,10 +6,10 @@
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
-![Next.js](https://img.shields.io/badge/-nextdotjs-333333?style=flat&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-nodedotjs-333333?style=flat&logo=nodedotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
